@@ -5,5 +5,5 @@ Python implementation of Schelling's model of segregation: an agent-based partic
 # Example of result
 <p float="middle">
   <img src="./images/init_h4.png" width="250" />
-  <img src="./images/init_h4.png" width="250" />
+  <img src="./images/res_h4.png" width="250" />
 </p>
